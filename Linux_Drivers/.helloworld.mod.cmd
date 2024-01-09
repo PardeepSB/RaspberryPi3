@@ -1,0 +1,1 @@
+cmd_/home/pardeep/_GIT/RaspberryPi3/Linux_Drivers/helloworld.mod := printf '%s\n'   helloworld.o | awk '!x[$$0]++ { print("/home/pardeep/_GIT/RaspberryPi3/Linux_Drivers/"$$0) }' > /home/pardeep/_GIT/RaspberryPi3/Linux_Drivers/helloworld.mod

@@ -1,0 +1,1 @@
+cmd_/home/pardeep/_GIT/RaspberryPi3/Linux_Drivers/helloworld.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/pardeep/_GIT/RaspberryPi3/Linux_Drivers/helloworld.ko /home/pardeep/_GIT/RaspberryPi3/Linux_Drivers/helloworld.o /home/pardeep/_GIT/RaspberryPi3/Linux_Drivers/helloworld.mod.o;  true
