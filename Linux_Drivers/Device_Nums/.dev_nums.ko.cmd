@@ -1,0 +1,1 @@
+cmd_/home/pardeep/_GIT/RaspberryPi3/Linux_Drivers/Device_NumsFiles/dev_nums.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/pardeep/_GIT/RaspberryPi3/Linux_Drivers/Device_NumsFiles/dev_nums.ko /home/pardeep/_GIT/RaspberryPi3/Linux_Drivers/Device_NumsFiles/dev_nums.o /home/pardeep/_GIT/RaspberryPi3/Linux_Drivers/Device_NumsFiles/dev_nums.mod.o;  true

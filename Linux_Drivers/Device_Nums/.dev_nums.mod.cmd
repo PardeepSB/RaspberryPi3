@@ -1,0 +1,1 @@
+cmd_/home/pardeep/_GIT/RaspberryPi3/Linux_Drivers/Device_NumsFiles/dev_nums.mod := printf '%s\n'   dev_nums.o | awk '!x[$$0]++ { print("/home/pardeep/_GIT/RaspberryPi3/Linux_Drivers/Device_NumsFiles/"$$0) }' > /home/pardeep/_GIT/RaspberryPi3/Linux_Drivers/Device_NumsFiles/dev_nums.mod
